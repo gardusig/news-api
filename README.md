@@ -1,2 +1,3 @@
-# news-api
-News API
+# News API
+
+API for news
